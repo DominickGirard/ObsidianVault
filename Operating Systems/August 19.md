@@ -84,4 +84,21 @@ so each square is counting by two bytes in this case
 so we get 12 and 16 for cell address.
 ![[Pasted image 20240819153359.png]]
 ![[Pasted image 20240819153613.png]]
-register
+registers are memory cells in the CPU. 
+
+
+![[Pasted image 20240819154051.png]]
+
+
+To put numbers  into register R2
+
+load(Cell address), slot;
+
+![[Pasted image 20240819154344.png]]
+
+Those commands can be converted to Binary
+
+![[Pasted image 20240819154513.png]]
+
+![[Pasted image 20240819154645.png]]
+
