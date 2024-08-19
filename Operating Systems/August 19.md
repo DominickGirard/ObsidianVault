@@ -36,11 +36,28 @@ We will be completing everything in all these boxes in class. Once we complete t
 
 ![[Pasted image 20240819150253.png]]
 
+![[Pasted image 20240819150944.png]]
+
+
 Interrupt is an electrical signal sent from computer comment to operating system
 
 This informs the OS that the computer finished the task or if they have an error 
 
 ### Interrupt Vs Trap 
 
+They are both Interrupts bur trap is from software
+
 Interrupt can come from any computer resource but if it comes from software we call it Trap 
+
+
+![[Pasted image 20240819151654.png]]
+
+
+They have their own identification number so OS knows how to handle the error
+
+
+
+
+
+
 
