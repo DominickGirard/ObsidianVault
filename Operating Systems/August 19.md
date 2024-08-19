@@ -56,8 +56,30 @@ Interrupt can come from any computer resource but if it comes from software we c
 They have their own identification number so OS knows how to handle the error
 
 
+![[Pasted image 20240819151804.png]]
+
+![[Pasted image 20240819152011.png]]
+
+![[Pasted image 20240819152134.png]]
+
+
+#### Why do we name the signal issues by a resource an **interrupt**?
+
+Its so we stop any task the CPU is running and work on this task/remedy.
+
+
+Below is the process of the Interrupt signal
+
+![[Pasted image 20240819152547.png]]
 
 
 
+
+
+
+### Interrupt signal is checked after each machine cycle
+
+What is a machine Cycle?
+	
 
 
