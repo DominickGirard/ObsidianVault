@@ -77,9 +77,11 @@ Below is the process of the Interrupt signal
 
 
 
-### Interrupt signal is checked after each machine cycle
+![[Pasted image 20240819152838.png]]
 
-What is a machine Cycle?
-	
-
-
+![[Pasted image 20240819152948.png]]
+so each square is counting by two bytes in this case 
+so we get 12 and 16 for cell address.
+![[Pasted image 20240819153359.png]]
+![[Pasted image 20240819153613.png]]
+register
