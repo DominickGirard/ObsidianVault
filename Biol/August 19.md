@@ -11,17 +11,20 @@ Biology is the scientific study of living organisms
 
 ### The 6 W's of Science 
 
-Who?
+Who? Anyone or Anything
 
-What?
+What? Anything Living
 
-Why?
+When? 3000 BCE
 
-Where?
+Where? Anywhere
 
-Why?
+Why? Understand the element of the world 
 
-How?
+How? The scientific method 
+
+---
+
 
 
 
