@@ -53,12 +53,14 @@
             }
           },
           {
-            "id": "c0f58280959b9c06",
+            "id": "2f9df14e4e8b5e08",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-19 15.56.25.excalidraw.md"
+                "file": "Operating Systems/August 19.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -143,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-19 15.56.25.excalidraw.md",
+                "file": "Operating Systems/August 19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-19 15.56.25.excalidraw.md",
+                "file": "Operating Systems/August 19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-19 15.56.25.excalidraw.md"
+                "file": "Operating Systems/August 19.md"
               }
             }
           },
@@ -213,10 +215,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c0f58280959b9c06",
+  "active": "2f9df14e4e8b5e08",
   "lastOpenFiles": [
-    "Operating Systems/August 19.md",
+    "Operating Systems/New name.md",
     "Excalidraw/Drawing 2024-08-19 15.56.25.excalidraw.md",
+    "Operating Systems/August 19.md",
     "Excalidraw",
     "Welcome.md",
     "Images/Pasted image 20240819154645.png",
