@@ -15,9 +15,20 @@
 ![[Pasted image 20240819144411.png]]'
 
 
+
+
+
+![[Pasted image 20240819145137.png]]
 ### The OS has multiple parts 
 
-kernel - The OS kernel is the part of the OS that always sits in the ram. This is the minimum the OS needs to run. 
-
-
 ![[Pasted image 20240819144613.png]]
+
+
+We will be completing everything in all these boxes in class. Once we complete them all the course will be over.'
+
+
+---
+
+
+### The History of OS
+

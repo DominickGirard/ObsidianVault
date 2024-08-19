@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 401.5
   },
   "right": {
     "id": "1fa5ccddf3649387",
@@ -183,20 +183,22 @@
   },
   "active": "3ce97a2d80f9eba3",
   "lastOpenFiles": [
-    "Pasted image 20240819144613.png",
-    "Pasted image 20240819144411.png",
+    "Images/Pasted image 20240819145137.png",
+    "Images/Pasted image 20240819144158.png",
     "Operating Systems/August 19.md",
-    "Pasted image 20240819144328.png",
-    "Pasted image 20240819144319.png",
+    "Images",
+    "Images/Pasted image 20240819144411.png",
+    "Images/Pasted image 20240819144328.png",
+    "Images/Pasted image 20240819144319.png",
+    "Images/Pasted image 20240819144201.png",
+    "create a link.md",
+    "Images/Pasted image 20240819144613.png",
     "Biol/August 19.md",
     "Biol/To do.md",
-    "Pasted image 20240819144201.png",
-    "Pasted image 20240819144158.png",
     "Operating Systems",
     "Welcome.md",
     "Untitled.canvas",
     "2024-08-19.md",
-    "create a link.md",
     "Biol",
     "ObsidianRepository"
   ]
