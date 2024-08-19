@@ -18,22 +18,21 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "e4e8f6ae1265cd3e",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "4ff27a6952646cda",
+            "id": "c074147f7ac1729b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Biol/To do.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,6 +79,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "4400b63ee17bf2e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ff27a6952646cda",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Biol/To do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Biol/To do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,16 +152,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Biol/To do.md"
               }
             }
+          },
+          {
+            "id": "a7dcbfba653bbb63",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,8 +183,9 @@
   },
   "active": "374f56267d89ebe7",
   "lastOpenFiles": [
+    "Welcome.md",
+    "Biol/To do.md",
     "Biol",
-    "ObsidianRepository",
-    "Welcome.md"
+    "ObsidianRepository"
   ]
 }
