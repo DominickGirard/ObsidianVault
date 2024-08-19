@@ -6,6 +6,7 @@
       {
         "id": "5f3f956a4f4e2484",
         "type": "tabs",
+        "dimension": 31.4410480349345,
         "children": [
           {
             "id": "b5285a3a22ffcce2",
@@ -37,6 +38,7 @@
       {
         "id": "c8fd4d2fe4125de9",
         "type": "tabs",
+        "dimension": 68.5589519650655,
         "children": [
           {
             "id": "2b38fbe07a8dd2e1",
@@ -199,25 +201,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b38fbe07a8dd2e1",
+  "active": "374f56267d89ebe7",
   "lastOpenFiles": [
-    "Pasted image 20240819154625.png",
+    "Welcome.md",
+    "Images/Pasted image 20240819154645.png",
     "Operating Systems/August 19.md",
-    "Pasted image 20240819154645.png",
+    "Images/Pasted image 20240819154935.png",
+    "Images/Pasted image 20240819154843.png",
+    "Images/Pasted image 20240819154804.png",
+    "Pasted image 20240819154754.png",
+    "Pasted image 20240819154625.png",
     "Images/Pasted image 20240819154513.png",
     "Images/Pasted image 20240819154344.png",
     "Pasted image 20240819154234.png",
     "Images/Pasted image 20240819150136.png",
-    "Images/Pasted image 20240819154051.png",
-    "Images/Pasted image 20240819153613.png",
-    "Pasted image 20240819154038.png",
-    "Images/Pasted image 20240819153359.png",
     "Images",
     "create a link.md",
     "Biol/August 19.md",
     "Biol/To do.md",
     "Operating Systems",
-    "Welcome.md",
     "Untitled.canvas",
     "2024-08-19.md",
     "Biol",

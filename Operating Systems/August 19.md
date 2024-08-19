@@ -102,3 +102,12 @@ Those commands can be converted to Binary
 
 ![[Pasted image 20240819154645.png]]
 
+![[Pasted image 20240819154804.png]]
+
+![[Pasted image 20240819154843.png]]
+![[Pasted image 20240819154935.png]]
+
+#### The three steps of the Machine cycle 
+1. Fetch 
+2. Decode 
+3. Execute
