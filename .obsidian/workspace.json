@@ -11,11 +11,9 @@
             "id": "2b38fbe07a8dd2e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Operating Systems/August 19.md",
-                "mode": "source",
-                "source": false
+                "file": "Operating Systems/August 21.md"
               }
             }
           },
@@ -109,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/August 19.md",
+                "file": "Operating Systems/August 21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/August 19.md",
+                "file": "Operating Systems/August 21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/August 19.md"
+                "file": "Operating Systems/August 21.md"
               }
             }
           },
@@ -166,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,9 +179,11 @@
   },
   "active": "2b38fbe07a8dd2e1",
   "lastOpenFiles": [
-    "Biol/August 19.md",
-    "Operating Systems/August 19.md",
+    "Pasted Image 20240821144814_017.png",
+    "Pasted Image 20240821144726_153.png",
     "Operating Systems/August 21.md",
+    "Operating Systems/August 19.md",
+    "Biol/August 19.md",
     "algorithm analysis/August 21.md",
     "algorithm analysis/Quiz 1.md",
     "conflict-files-obsidian-git.md",
@@ -201,7 +201,6 @@
     "Images/Pasted image 20240819154645.png",
     "Images/Pasted image 20240819154935.png",
     "Images/Pasted image 20240819154843.png",
-    "Images/Pasted image 20240819154804.png",
     "Images",
     "create a link.md",
     "Biol/To do.md",
