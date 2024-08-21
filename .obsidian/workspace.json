@@ -6,19 +6,54 @@
       {
         "id": "5f3f956a4f4e2484",
         "type": "tabs",
+        "dimension": 31.4410480349345,
         "children": [
           {
-            "id": "c074147f7ac1729b",
+            "id": "b5285a3a22ffcce2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20240821102556.png"
+                "file": "Biol/To do.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "326264f62cf25078",
+            "id": "3ce97a2d80f9eba3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/August 19.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c8fd4d2fe4125de9",
+        "type": "tabs",
+        "dimension": 68.5589519650655,
+        "children": [
+          {
+            "id": "2b38fbe07a8dd2e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/August 19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f9df14e4e8b5e08",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,24 +65,12 @@
             }
           },
           {
-            "id": "4d7b8eda513fce52",
+            "id": "150b7e21d3ffe5c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biol/August 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1aebe03500ee766",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biol/August 19.md",
+                "file": "algorithm analysis/August 21.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234.5
   },
   "right": {
     "id": "1fa5ccddf3649387",
@@ -134,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biol/August 21.md",
+                "file": "algorithm analysis/August 21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biol/August 21.md",
+                "file": "algorithm analysis/August 21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biol/August 21.md"
+                "file": "algorithm analysis/August 21.md"
               }
             }
           },
@@ -191,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,31 +223,38 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d7b8eda513fce52",
+  "active": "374f56267d89ebe7",
   "lastOpenFiles": [
-    "Biol/August 19.md",
-    "Biol/August 21.md",
-    "Images/Pasted image 20240821102556.png",
     "Images/Pasted image 20240821103354.png",
-    "algorithm analysis/August 21.md",
-    "algorithm analysis",
     "Images/Pasted image 20240821102822.png",
-    "Operating Systems/New name.md",
+    "Images/Pasted image 20240821102556.png",
+    "Biol/August 21.md",
+    "Pasted image 20240821103354.png",
+    "Pasted image 20240821102822.png",
+    "algorithm analysis",
+    "Pasted image 20240821102556.png",
+    "Biol/August 19.md",
+    "algorithm analysis/August 21.md",
     "Operating Systems/August 19.md",
-    "Operating Systems",
+    "Operating Systems/New name.md",
+    "Excalidraw/Drawing 2024-08-19 15.56.25.excalidraw.md",
+    "Excalidraw",
+    "Welcome.md",
+    "Images/Pasted image 20240819154645.png",
     "Images/Pasted image 20240819154935.png",
     "Images/Pasted image 20240819154843.png",
     "Images/Pasted image 20240819154804.png",
-    "Images/Pasted image 20240819154645.png",
-    "Images/Pasted image 20240819154513.png",
-    "Images/Pasted image 20240819154344.png",
-    "Images/Pasted image 20240819153613.png",
+    "Pasted image 20240819154754.png",
     "Images",
+    "create a link.md",
     "Biol/To do.md",
-    "Welcome.md",
+    "Operating Systems",
+    "Untitled.canvas",
+    "2024-08-19.md",
     "Biol",
     "ObsidianRepository"
   ]
