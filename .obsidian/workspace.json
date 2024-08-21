@@ -68,28 +68,14 @@
             "id": "150b7e21d3ffe5c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "algorithm analysis/August 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e3788a80f3484e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "file": "Operating Systems/New name.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Operating Systems/New name.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Operating Systems/New name.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Operating Systems/New name.md"
               }
             }
           },
@@ -239,11 +225,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e3788a80f3484e2",
+  "active": "150b7e21d3ffe5c3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "algorithm analysis/Quiz 1.md",
+    "Biol/August 19.md",
     "algorithm analysis/August 21.md",
+    "algorithm analysis/Quiz 1.md",
+    "conflict-files-obsidian-git.md",
     "Images/Pasted image 20240821103354.png",
     "Images/Pasted image 20240821102822.png",
     "Images/Pasted image 20240821102556.png",
@@ -252,7 +239,6 @@
     "Pasted image 20240821102822.png",
     "algorithm analysis",
     "Pasted image 20240821102556.png",
-    "Biol/August 19.md",
     "Operating Systems/August 19.md",
     "Operating Systems/New name.md",
     "Excalidraw/Drawing 2024-08-19 15.56.25.excalidraw.md",
