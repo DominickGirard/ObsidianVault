@@ -157,7 +157,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm analysis/August 21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithm analysis/August 21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithm analysis/August 21.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -227,8 +225,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "374f56267d89ebe7",
+  "active": "a7dcbfba653bbb63",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "algorithm analysis/August 21.md",
     "Images/Pasted image 20240821103354.png",
     "Images/Pasted image 20240821102822.png",
     "Images/Pasted image 20240821102556.png",
@@ -238,7 +238,6 @@
     "algorithm analysis",
     "Pasted image 20240821102556.png",
     "Biol/August 19.md",
-    "algorithm analysis/August 21.md",
     "Operating Systems/August 19.md",
     "Operating Systems/New name.md",
     "Excalidraw/Drawing 2024-08-19 15.56.25.excalidraw.md",
@@ -248,7 +247,6 @@
     "Images/Pasted image 20240819154935.png",
     "Images/Pasted image 20240819154843.png",
     "Images/Pasted image 20240819154804.png",
-    "Pasted image 20240819154754.png",
     "Images",
     "create a link.md",
     "Biol/To do.md",
