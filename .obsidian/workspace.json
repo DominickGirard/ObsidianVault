@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b38fbe07a8dd2e1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Operating Systems/August 21.md"
-              }
-            }
-          },
-          {
             "id": "150b7e21d3ffe5c3",
             "type": "leaf",
             "state": {
@@ -177,14 +167,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2b38fbe07a8dd2e1",
+  "active": "150b7e21d3ffe5c3",
   "lastOpenFiles": [
-    "Pasted Image 20240821150433_179.png",
-    "Pasted Image 20240821145912_393.png",
-    "Pasted Image 20240821144814_017.png",
-    "Pasted Image 20240821144726_153.png",
-    "Operating Systems/August 21.md",
     "Operating Systems/August 19.md",
+    "Operating Systems/August 21.md",
+    "Pasted Image 20240821151106_217.png",
+    "Pasted Image 20240821144814_017.png",
+    "Pasted Image 20240821145912_393.png",
+    "Pasted Image 20240821150433_179.png",
+    "Pasted Image 20240821150910_233.png",
+    "Pasted Image 20240821150955_235.png",
+    "Pasted Image 20240821144726_153.png",
     "Biol/August 19.md",
     "algorithm analysis/August 21.md",
     "algorithm analysis/Quiz 1.md",
@@ -193,14 +186,10 @@
     "Images/Pasted image 20240821102822.png",
     "Images/Pasted image 20240821102556.png",
     "Biol/August 21.md",
-    "Pasted image 20240821103354.png",
-    "Pasted image 20240821102822.png",
     "algorithm analysis",
-    "Pasted image 20240821102556.png",
     "Excalidraw/Drawing 2024-08-19 15.56.25.excalidraw.md",
     "Excalidraw",
     "Welcome.md",
-    "Images/Pasted image 20240819154645.png",
     "Images",
     "create a link.md",
     "Biol/To do.md",
