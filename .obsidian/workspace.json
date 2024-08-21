@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biol/August 19.md",
+                "file": "Biol/August 21.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1fa5ccddf3649387",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biol/August 19.md",
+                "file": "Biol/August 21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biol/August 19.md",
+                "file": "Biol/August 21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biol/August 19.md"
+                "file": "Biol/August 21.md"
               }
             }
           },
@@ -191,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,12 +205,14 @@
   },
   "active": "4d7b8eda513fce52",
   "lastOpenFiles": [
+    "algorithm analysis/August 21.md",
+    "algorithm analysis/Quiz 1.md",
     "Biol/August 21.md",
+    "algorithm analysis/Quiz1.canvas",
     "Biol/August 19.md",
     "Biol/To do.md",
     "Images/Pasted image 20240821102556.png",
     "Images/Pasted image 20240821103354.png",
-    "algorithm analysis/August 21.md",
     "algorithm analysis",
     "Images/Pasted image 20240821102822.png",
     "Operating Systems/New name.md",
