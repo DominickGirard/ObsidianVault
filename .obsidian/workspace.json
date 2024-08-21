@@ -11,9 +11,31 @@
             "id": "c074147f7ac1729b",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20240821102556.png"
+              }
+            }
+          },
+          {
+            "id": "326264f62cf25078",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Biol/August 19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d7b8eda513fce52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biol/August 21.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biol/August 19.md",
+                "file": "Biol/August 21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biol/August 19.md",
+                "file": "Biol/August 21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biol/August 19.md"
+                "file": "Biol/August 21.md"
               }
             }
           },
@@ -180,13 +203,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c074147f7ac1729b",
+  "active": "4d7b8eda513fce52",
   "lastOpenFiles": [
+    "Biol/August 19.md",
+    "Biol/August 21.md",
+    "Images/Pasted image 20240821102556.png",
+    "Images/Pasted image 20240821103354.png",
     "algorithm analysis/August 21.md",
     "algorithm analysis",
-    "Pasted image 20240821103354.png",
-    "Pasted image 20240821102822.png",
-    "Pasted image 20240821102556.png",
+    "Images/Pasted image 20240821102822.png",
     "Operating Systems/New name.md",
     "Operating Systems/August 19.md",
     "Operating Systems",
@@ -199,7 +224,6 @@
     "Images/Pasted image 20240819153613.png",
     "Images",
     "Biol/To do.md",
-    "Biol/August 19.md",
     "Welcome.md",
     "Biol",
     "ObsidianRepository"
