@@ -41,19 +41,24 @@
             "id": "c3a24feac3104085",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "Database Systems/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Images/Pasted Image 20240826001014_250.png"
+              }
+            }
+          },
+          {
+            "id": "d1c89b1869da520a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Database Systems/Introduction PDF.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Systems/Untitled.canvas",
+                "file": "Database Systems/Introduction PDF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Systems/Untitled.canvas",
+                "file": "Database Systems/Introduction PDF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Systems/Untitled.canvas"
+                "file": "Database Systems/Introduction PDF.md"
               }
             }
           },
@@ -203,15 +208,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c3a24feac3104085",
+  "active": "d1c89b1869da520a",
   "lastOpenFiles": [
+    "Database Systems/Introduction.md",
+    "Database Systems/Introduction PDF.md",
     "Images/Pasted Image 20240826001014_250.png",
     "Database Systems/Untitled.canvas",
     "Images/8.23.24_BIOL1107_TestingLife_VesicleStudy1.pdf",
     "Untitled.md",
     "Images/Introduction_ Database and Database Management System.pdf",
     "Database Systems/Drawing 2024-08-26 00.15.40.excalidraw.md",
-    "Database Systems/Introduction.md",
     "Database Systems/Drawing 2024-08-26 00.13.50.excalidraw.md",
     "Images/Pasted Image 20240825234640_929.png",
     "Images/Pasted Image 20240825234505_188.png",
