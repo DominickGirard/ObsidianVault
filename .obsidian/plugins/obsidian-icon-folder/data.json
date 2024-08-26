@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDatabase",
       "LiCodesandbox",
       "LiComputer",
       "LiImage",
@@ -35,5 +36,6 @@
   "Biol": "👨‍🔬",
   "Images": "LiImage",
   "Operating Systems": "LiComputer",
-  "algorithm analysis": "LiCodesandbox"
+  "algorithm analysis": "LiCodesandbox",
+  "Database Systems": "LiDatabase"
 }
