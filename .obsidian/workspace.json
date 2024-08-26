@@ -16,8 +16,19 @@
                 "file": "Operating Systems/August 21.md"
               }
             }
+          },
+          {
+            "id": "a9e63cc4ce7c1d52",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Database Systems/Introduction.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/August 21.md",
+                "file": "Database Systems/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/August 21.md",
+                "file": "Database Systems/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/August 21.md"
+                "file": "Database Systems/Introduction.md"
               }
             }
           },
@@ -167,12 +178,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "374f56267d89ebe7",
+  "active": "a9e63cc4ce7c1d52",
   "lastOpenFiles": [
+    "Pasted Image 20240825231549_384.png",
+    "Operating Systems/August 21.md",
+    "Database Systems/Introduction.md",
+    "Database Systems",
     "Images/Pasted Image 20240821153605_360.png",
     "Images/Pasted Image 20240821153359_972.png",
     "Pasted Image 20240821153230_163.png",
-    "Operating Systems/August 21.md",
     "Pasted Image 20240821153241_191.png",
     "Pasted Image 20240821153313_203.png",
     "Operating Systems/August 19.md",
@@ -181,7 +195,6 @@
     "Images/Pasted Image 20240821152349_287.png",
     "Images/Pasted Image 20240821152313_264.png",
     "Images/Pasted Image 20240821151106_217.png",
-    "Images/Pasted Image 20240821144814_017.png",
     "Biol/August 19.md",
     "algorithm analysis/August 21.md",
     "algorithm analysis/Quiz 1.md",
