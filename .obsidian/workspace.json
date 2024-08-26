@@ -26,9 +26,19 @@
                 "file": "Database Systems/Introduction.md"
               }
             }
+          },
+          {
+            "id": "cd0505830599b096",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Database Systems/Introduction.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,11 +188,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a9e63cc4ce7c1d52",
+  "active": "cd0505830599b096",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Database Systems/Introduction.md",
+    "Biol/August 23.md",
+    "8.23.24_BIOL1107_TestingLife_VesicleStudy1.pdf",
     "Pasted Image 20240825231549_384.png",
     "Operating Systems/August 21.md",
-    "Database Systems/Introduction.md",
     "Database Systems",
     "Images/Pasted Image 20240821153605_360.png",
     "Images/Pasted Image 20240821153359_972.png",
@@ -194,11 +207,9 @@
     "Images/Pasted Image 20240821152714_325.png",
     "Images/Pasted Image 20240821152349_287.png",
     "Images/Pasted Image 20240821152313_264.png",
-    "Images/Pasted Image 20240821151106_217.png",
     "Biol/August 19.md",
     "algorithm analysis/August 21.md",
     "algorithm analysis/Quiz 1.md",
-    "conflict-files-obsidian-git.md",
     "Biol/August 21.md",
     "algorithm analysis",
     "Excalidraw/Drawing 2024-08-19 15.56.25.excalidraw.md",
