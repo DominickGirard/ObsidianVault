@@ -56,9 +56,19 @@
                 "file": "Database Systems/Introduction.md"
               }
             }
+          },
+          {
+            "id": "44a77bc3ca42588e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Data Analysts/Introduction.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -138,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Systems/Introduction.md",
+                "file": "Data Analysts/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Systems/Introduction.md",
+                "file": "Data Analysts/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Systems/Introduction.md"
+                "file": "Data Analysts/Introduction.md"
               }
             }
           },
@@ -208,12 +218,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a7dcbfba653bbb63",
+  "active": "374f56267d89ebe7",
   "lastOpenFiles": [
+    "Database Systems/Introduction.md",
+    "Data Analysts/Introduction.md",
+    "Data Analysts",
     "Biol/August 26.md",
     "Images/8.23.24_BIOL1107_TestingLife_VesicleStudy1.pdf",
     "Images/Introduction_ Database and Database Management System.pdf",
-    "Database Systems/Introduction.md",
     "Database Systems/Introduction PDF.md",
     "Images/Pasted Image 20240826001014_250.png",
     "Database Systems/Untitled.canvas",
