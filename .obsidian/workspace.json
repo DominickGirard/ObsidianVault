@@ -62,6 +62,18 @@
             }
           },
           {
+            "id": "12597bef4bba86a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biol/August 28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b1aebe03500ee766",
             "type": "leaf",
             "state": {
@@ -74,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biol/August 26.md",
+                "file": "Biol/August 28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biol/August 26.md",
+                "file": "Biol/August 28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biol/August 26.md"
+                "file": "Biol/August 28.md"
               }
             }
           },
@@ -224,17 +236,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f00a9092f29ebd01",
+  "active": "12597bef4bba86a5",
   "lastOpenFiles": [
+    "Biol/To do.md",
+    "Biol/August 28.md",
+    "Untitled.md",
+    "Biol/August 26.md",
     "Data Analysts/Introduction.md",
     "Data Analysts",
     "Operating Systems/August 21.md",
     "Database Systems/Introduction.md",
     "algorithm analysis/August 21.md",
-    "Biol/August 26.md",
     "Biol/August 21.md",
     "Biol/August 23.md",
-    "Biol/To do.md",
     "Images/Pasted Image 20240826001014_250.png",
     "Images/Pasted Image 20240825234640_929.png",
     "Images/Pasted Image 20240825234505_188.png",
