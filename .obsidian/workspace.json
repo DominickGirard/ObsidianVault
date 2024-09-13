@@ -63,7 +63,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Data Analysts/Introduction.md"
+                "file": "Biol/August 26.md"
               }
             }
           }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analysts/Introduction.md",
+                "file": "Biol/August 26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analysts/Introduction.md",
+                "file": "Biol/August 26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analysts/Introduction.md"
+                "file": "Biol/August 26.md"
               }
             }
           },
@@ -218,10 +218,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "374f56267d89ebe7",
+  "active": "44a77bc3ca42588e",
   "lastOpenFiles": [
-    "Database Systems/Introduction.md",
+    "Biol/August 21.md",
+    "Biol/August 19.md",
     "Data Analysts/Introduction.md",
+    "Operating Systems/August 21.md",
+    "Database Systems/Introduction.md",
     "Data Analysts",
     "Biol/August 26.md",
     "Images/8.23.24_BIOL1107_TestingLife_VesicleStudy1.pdf",
@@ -236,11 +239,9 @@
     "Images/Pasted Image 20240825234505_188.png",
     "Images/Pasted Image 20240825234332_176.png",
     "Images/Pasted Image 20240825232311_831.png",
-    "Biol/August 19.md",
     "conflict-files-obsidian-git.md",
     "Biol/August 23.md",
     "Images/Pasted Image 20240825231549_384.png",
-    "Operating Systems/August 21.md",
     "Database Systems",
     "Images/Pasted Image 20240821153605_360.png",
     "Images/Pasted Image 20240821153359_972.png",
@@ -249,7 +250,6 @@
     "Operating Systems/August 19.md",
     "algorithm analysis/August 21.md",
     "algorithm analysis/Quiz 1.md",
-    "Biol/August 21.md",
     "algorithm analysis",
     "Excalidraw/Drawing 2024-08-19 15.56.25.excalidraw.md",
     "Excalidraw",
