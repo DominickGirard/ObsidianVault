@@ -88,7 +88,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "JobReadyProgrammer/Sql/Command.md"
+                "file": "JobReadyProgrammer/Sql/Commands.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JobReadyProgrammer/Sql/Command.md",
+                "file": "JobReadyProgrammer/Sql/Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JobReadyProgrammer/Sql/Command.md",
+                "file": "JobReadyProgrammer/Sql/Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JobReadyProgrammer/Sql/Command.md"
+                "file": "JobReadyProgrammer/Sql/Commands.md"
               }
             }
           },
@@ -243,10 +243,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "13d716cc9868c969",
+  "active": "374f56267d89ebe7",
   "lastOpenFiles": [
     "Database Systems/Untitled.canvas",
-    "JobReadyProgrammer/Sql/Command.md",
+    "JobReadyProgrammer/Sql/Commands.md",
     "JobReadyProgrammer/Sql",
     "JobReadyProgrammer",
     "Untitled.md",
