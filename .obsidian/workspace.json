@@ -66,9 +66,24 @@
                 "file": "Biol/August 26.md"
               }
             }
+          },
+          {
+            "id": "04cfa4388401e08a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Database Systems/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -148,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biol/August 26.md",
+                "file": "Database Systems/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biol/August 26.md",
+                "file": "Database Systems/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biol/August 26.md"
+                "file": "Database Systems/Untitled.canvas"
               }
             }
           },
@@ -218,35 +233,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "44a77bc3ca42588e",
+  "active": "04cfa4388401e08a",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Midterm.pdf",
+    "conflict-files-obsidian-git.md",
+    "Database Systems/Drawing 2024-09-26 09.09.31.excalidraw.png",
+    "Database Systems/Introduction.md",
+    "Database Systems/Untitled.md",
+    "Database Systems/Untitled.canvas",
+    "Database Systems/Drawing 2024-09-26 09.09.31.excalidraw.md",
+    "Biol/August 26.md",
+    "Biol/August 28.md",
     "Biol/August 21.md",
     "Biol/August 19.md",
     "Data Analysts/Introduction.md",
     "Operating Systems/August 21.md",
-    "Database Systems/Introduction.md",
     "Data Analysts",
-    "Biol/August 26.md",
     "Images/8.23.24_BIOL1107_TestingLife_VesicleStudy1.pdf",
     "Images/Introduction_ Database and Database Management System.pdf",
     "Database Systems/Introduction PDF.md",
     "Images/Pasted Image 20240826001014_250.png",
-    "Database Systems/Untitled.canvas",
-    "Untitled.md",
     "Database Systems/Drawing 2024-08-26 00.15.40.excalidraw.md",
     "Database Systems/Drawing 2024-08-26 00.13.50.excalidraw.md",
     "Images/Pasted Image 20240825234640_929.png",
     "Images/Pasted Image 20240825234505_188.png",
     "Images/Pasted Image 20240825234332_176.png",
     "Images/Pasted Image 20240825232311_831.png",
-    "conflict-files-obsidian-git.md",
     "Biol/August 23.md",
     "Images/Pasted Image 20240825231549_384.png",
     "Database Systems",
     "Images/Pasted Image 20240821153605_360.png",
     "Images/Pasted Image 20240821153359_972.png",
     "Pasted Image 20240821153230_163.png",
-    "Pasted Image 20240821153241_191.png",
     "Operating Systems/August 19.md",
     "algorithm analysis/August 21.md",
     "algorithm analysis/Quiz 1.md",
@@ -260,7 +279,6 @@
     "Operating Systems",
     "Untitled.canvas",
     "2024-08-19.md",
-    "Biol",
-    "ObsidianRepository"
+    "Biol"
   ]
 }
