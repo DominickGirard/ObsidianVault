@@ -81,9 +81,19 @@
                 }
               }
             }
+          },
+          {
+            "id": "13d716cc9868c969",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "JobReadyProgrammer/Sql/Command.md"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -163,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Systems/Untitled.canvas",
+                "file": "JobReadyProgrammer/Sql/Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Systems/Untitled.canvas",
+                "file": "JobReadyProgrammer/Sql/Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Systems/Untitled.canvas"
+                "file": "JobReadyProgrammer/Sql/Command.md"
               }
             }
           },
@@ -233,15 +243,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04cfa4388401e08a",
+  "active": "13d716cc9868c969",
   "lastOpenFiles": [
+    "Database Systems/Untitled.canvas",
+    "JobReadyProgrammer/Sql/Command.md",
+    "JobReadyProgrammer/Sql",
+    "JobReadyProgrammer",
     "Untitled.md",
     "Midterm.pdf",
     "conflict-files-obsidian-git.md",
     "Database Systems/Drawing 2024-09-26 09.09.31.excalidraw.png",
     "Database Systems/Introduction.md",
     "Database Systems/Untitled.md",
-    "Database Systems/Untitled.canvas",
     "Database Systems/Drawing 2024-09-26 09.09.31.excalidraw.md",
     "Biol/August 26.md",
     "Biol/August 28.md",
@@ -276,9 +289,7 @@
     "Images",
     "create a link.md",
     "Biol/To do.md",
-    "Operating Systems",
     "Untitled.canvas",
-    "2024-08-19.md",
-    "Biol"
+    "2024-08-19.md"
   ]
 }
